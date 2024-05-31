@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283407245307",
+    "project_id": "quranapp-d883d",
+    "storage_bucket": "quranapp-d883d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283407245307:android:5671afa56ab9ded0ef355e",
+        "android_client_info": {
+          "package_name": "com.example.thefurqan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoV1jSNIkZpOAVv80wj6xG3GUtR2kdL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

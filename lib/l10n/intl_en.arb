@@ -1,0 +1,28 @@
+{
+    "appTitle":"Al-Furqan",
+    "Hello":"Alsalamu Alaykum",
+    "header1":"Sign in",
+    "header2":"Sign up",
+    "name":"name",
+    "email":"e-mail",
+    "password":"password",
+    "login_question":"Don't have an account?",
+    "login_answer":"Register here",
+    "register_question":"Already have an account?",
+    "register_answer":"Login here",
+    "last_read":"Last Read",
+    "Surahs":"Surahs",
+    "interpretation":"Verse Interpretation",
+    "okay":"Okay",
+    "share":"Share",
+    "account":"Account",
+    "settings":"Settings",
+    "privary":"Privacy & Security",
+    "help":"Help & Support",
+    "about":"About",
+    "choose":"Choose Language",
+    "appLang":"App Language",
+    "font":"Font Size",
+    "search":"Search"
+
+}
